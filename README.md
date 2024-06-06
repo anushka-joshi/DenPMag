@@ -23,8 +23,17 @@ The project is organized into the following files:
 
 ## **Installation**
 
-1. *Clone the repository.*
-2. *Install the required Python packages*
+1. *Clone the repository:*
+
+    ```bash
+    git clone https://github.com/anushka-joshi/DenPMag
+    ```
+
+2. *Install the required Python packages:*
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## **Usage**
 
