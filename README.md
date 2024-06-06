@@ -24,12 +24,12 @@ The project is organized into the following files:
 ## **Installation**
 
 1. *Clone the repository.*
-2. *Install the required Python packages:*
+2. *Install the required Python packages*
 
 ## **Usage**
 
 1. *Prepare your data:*
-    * Ensure you have your data formatted correctly. You will need seismic waveform data, sequence data, and tabular data for training.
+    * Ensure that data is formatted correctly. You will need seismic waveform data, sequence data, and tabular data for training.
 2. *Train the model:*
     * Edit `main.py` to include your data loading process.
     * Run the training script: `python main.py`
