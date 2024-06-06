@@ -63,3 +63,7 @@ The project is organized into the following files:
 ## **License**
 
 *This project is licensed under the terms of the MIT license.*
+
+## **Credits**
+
+*This project is developed with contributions from Anushka Joshi, Machine Vision Lab, Department of Computer Science and Engineering, IIT Roorkee.*
