@@ -1,10 +1,10 @@
-DenPMag
+##DenPMag
 
-Overview
+#Overview
 
 DenPMag is a deep learning framework designed for the prediction of earthquake magnitude and peak ground acceleration (PGA) from single-station data. The model leverages both temporal and frequency information to achieve superior performance in predicting seismic events. This framework includes custom neural network layers, attention mechanisms, and transformer encoders to enhance the feature extraction process.
 
-Structure
+#Structure
 
 The project is organized into the following files:
 
@@ -15,18 +15,18 @@ The project is organized into the following files:
 5. model.py: Function to create the complete model.
 6. utils.py: Utility functions for mask generation and data preprocessing.
 
-Requirements
+#Requirements
 
 - Python 3.7+
 - TensorFlow 2.x
 - NumPy
 
-Installation
+#Installation
 
 1. Clone the repository.
 2. Install the required Python packages:
 
-Usage
+#Usage
 
 1. Prepare your data:
   - Ensure you have your data formatted correctly. You will need seismic waveform data, sequence data, and tabular data for training.
@@ -37,7 +37,7 @@ Usage
     python main.py
 
 
-File Descriptions
+#File Descriptions
 
 main.py
 
@@ -64,7 +64,7 @@ utils.py
 Provides utility functions for generating masks and preprocessing data. These functions are used to create the masks needed for the dendritic layers and other preprocessing tasks.
 
 
-License
+#License
 
 This project is licensed under the terms of the MIT license.
 
